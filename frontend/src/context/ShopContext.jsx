@@ -11,7 +11,7 @@ const ShopContextProvider = (props) => {
     const currency = '$';
     const delivery_fee = 10;
     // backend connection
-    const backendUrl = import.meta.env.VITE_BACKEND_URL
+    const backendUrl = "https://full-stack-ecommerce-web-app-backend.onrender.com"
     const [search, setSearch] = useState('');
     const [showSearch, setShowSearch] = useState(false);
     const [cartItems, setCartItems] = useState({});
