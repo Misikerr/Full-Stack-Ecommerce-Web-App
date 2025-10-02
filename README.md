@@ -21,7 +21,7 @@ A full-stack e-commerce application built with the MERN stack, featuring a custo
 - **Responsive Design**: Mobile-first design with Tailwind CSS
 
 ### 🔧 Admin Dashboard
--** https://full-stack-ecommerce-web-app-admin2.onrender.com
+   https://full-stack-ecommerce-web-app-admin2.onrender.com
 - **Product Management**: Add, edit, and delete products with image upload
 - **Inventory Control**: Manage product categories, sizes, and bestseller status
 - **Order Management**: View and manage customer orders
@@ -119,18 +119,6 @@ cd ecommerce-app
 cd backend
 npm install
 
-# Create .env file with the following variables:
-# MONGODB_URI=your_mongodb_connection_string
-# JWT_SECRET=your_jwt_secret
-# ADMIN_EMAIL=admin@example.com
-# ADMIN_PASSWORD=admin_password
-# CLOUDINARY_NAME=your_cloudinary_name
-# CLOUDINARY_API_KEY=your_cloudinary_api_key
-# CLOUDINARY_SECRET_KEY=your_cloudinary_secret
-# STRIPE_SECRET_KEY=your_stripe_secret_key
-# RAZORPAY_KEY_ID=your_razorpay_key_id
-# RAZORPAY_KEY_SECRET=your_razorpay_secret
-
 npm run server
 ```
 
@@ -182,22 +170,6 @@ npm run dev
 - `POST /api/order/list` - Get all orders (Admin)
 - `POST /api/order/status` - Update order status (Admin)
 
-## 🔧 Environment Variables
-
-### Backend (.env)
-```env
-MONGODB_URI=mongodb://localhost:27017/ecommerce
-JWT_SECRET=your_super_secret_jwt_key
-ADMIN_EMAIL=admin@example.com
-ADMIN_PASSWORD=securepassword
-CLOUDINARY_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_SECRET_KEY=your_secret_key
-STRIPE_SECRET_KEY=sk_test_...
-RAZORPAY_KEY_ID=rzp_test_...
-RAZORPAY_KEY_SECRET=your_razorpay_secret
-PORT=4000
-```
 
 ### Frontend & Admin (.env)
 ```env
@@ -256,7 +228,7 @@ npm run lint
 If you have any questions or run into issues, please:
 1. Check the existing issues in the repository
 2. Create a new issue with detailed information
-3. Reach out via email: your-email@example.com
+3. Reach out via telegram: @Im_1210
 
 ## 🙏 Acknowledgments
 
