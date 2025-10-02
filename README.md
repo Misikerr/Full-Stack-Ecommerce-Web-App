@@ -228,7 +228,7 @@ npm run lint
 If you have any questions or run into issues, please:
 1. Check the existing issues in the repository
 2. Create a new issue with detailed information
-3. Reach out via telegram: @Im_1210
+3. Reach out via telegram: [@Im_1210](https://t.me/Im_1210)
 
 ## 🙏 Acknowledgments
 
